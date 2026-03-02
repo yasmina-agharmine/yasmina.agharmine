@@ -1,58 +1,51 @@
 # 👩‍💻 Yasmina Agharmine
 
-🎯 **Future Technicienne Réseaux & Cybersécurité**  
+🎯 Future Technicienne Réseaux & Cybersécurité  
 📍 Val-d’Oise (95) | Mobilité nationale  
 📧 yasmina.agharmine9740@gmail.com  
 
 ---
 
-## 🌐 À propos de moi
+## 🔐 À propos de moi
 
-Étudiante en **informatique, réseaux et cybersécurité**, je me spécialise dans  
-l’**administration systèmes**, les **réseaux TCP/IP** et les **bonnes pratiques de sécurité**.
+Passionnée par les systèmes et les infrastructures réseaux, je me spécialise dans l’administration Windows/Linux, la configuration TCP/IP et la cybersécurité.
 
-Curieuse, rigoureuse et passionnée par la technologie, j’aime comprendre **comment les systèmes fonctionnent en profondeur**, les configurer, les sécuriser et résoudre des problèmes concrets.
+Mon objectif : comprendre en profondeur le fonctionnement des systèmes, sécuriser les environnements et intervenir efficacement en support et en exploitation réseau.
 
-Je suis actuellement à la recherche d’une **alternance en Technicien Réseaux & Cybersécurité**  
-📅 **Mars 2026 → Septembre 2027**
-
----
-
-## 🧪 Projet LAB – Réseaux & Cybersécurité
-
-🔧 **Projet Lab (en cours)**
-
-Ce projet regroupe mes **travaux pratiques et expérimentations** autour de :
-
-- Conception et simulation de réseaux
-- Configuration TCP/IP
-- Administration systèmes Windows & Linux
-- Gestion des utilisateurs et des droits
-- Sécurisation des environnements
-- Tests et mises en situation proches du réel
-
-🛠️ Outils et technologies utilisés :
-- Cisco Packet Tracer
-- Windows Server / Linux
-- Active Directory
-- Machines virtuelles
-- Réseaux TCP/IP
-
-👉 Objectif : **mettre en pratique les compétences acquises en formation** et développer une approche professionnelle orientée terrain.
+Je recherche une **alternance en Technicien Réseaux & Cybersécurité**  
+📅 Mars 2026 → Septembre 2027
 
 ---
 
-## 🧠 Compétences techniques
+## 🧪 Mon LAB Réseaux & Cybersécurité
+
+J’ai construit un environnement LAB personnel pour mettre en pratique mes compétences techniques dans des conditions proches du réel.
+
+Ce LAB me permet de :
+- Simuler des architectures réseaux
+- Configurer des services Windows Server et Linux
+- Mettre en place Active Directory
+- Tester des scénarios de sécurisation
+- Manipuler Cisco Packet Tracer
+
+👉 Voir le projet complet ici :  
+🔗 **[Accéder au LAB](https://github.com/yasmina-agharmine/projethomelab)**
+
+*(Projet évolutif — régulièrement enrichi avec de nouveaux scénarios techniques.)*
+
+---
+
+## 🧠 Compétences Techniques
 
 ### 💻 Systèmes & Réseaux
 - Administration Windows & Linux
 - Réseaux TCP/IP
 - Active Directory
-- Support utilisateurs N1 / N2
+- Support N1 / N2
 - Virtualisation
-- Sécurité informatique (bonnes pratiques)
+- Bonnes pratiques de cybersécurité
 
-### 👨‍💻 Programmation & Développement
+### 👨‍💻 Programmation
 - Java
 - Python
 - C
@@ -62,51 +55,85 @@ Ce projet regroupe mes **travaux pratiques et expérimentations** autour de :
 ### 🗄️ Bases de données
 - SQL
 
-### 🧰 Outils
+### 🛠️ Outils
 - Git / GitHub
 - GLPI
 - Cisco Packet Tracer
+- Machines virtuelles
 - Pack Office (Excel avancé)
 
 ---
 
 ## 🎓 Diplômes & Formations
 
-🎓 **Technicien Réseaux & Cybersécurité (TSSR)** – *En cours*  
-> Simplon – Distanciel  
-📅 Mars 2026 → Septembre 2027
+### 🎓 Technicienne Supérieure Systèmes & Réseaux (TSSR) — En cours
+Simplon — 2026 / 2027  
 
-🎓 **Licence Informatique & Mathématiques (L3)** – *En cours*  
-> Université Sorbonne Paris Nord
+- Administration systèmes Windows & Linux  
+- Réseaux TCP/IP  
+- Gestion des utilisateurs et des droits  
+- Active Directory  
+- Support utilisateurs N1 / N2  
+- Sécurisation des infrastructures  
 
-🎓 **Baccalauréat Scientifique – Mathématiques & NSI**
+---
 
-📜 **Cisco Network Academy** – *En cours*
+### 🌐 Cisco Network Academy — En cours
 
-📚 Formations complémentaires :
-- Concevez votre réseau TCP/IP
-- Simulez un réseau avec Cisco Packet Tracer
-- Prenez en main Windows Server
-- Centralisez et sécurisez Active Directory
+Programme international de formation aux technologies réseaux et à la cybersécurité.
+
+Formation axée sur :
+- Fondamentaux des réseaux (modèle OSI, TCP/IP)
+- Configuration de routeurs et switches
+- Routage, VLAN, adressage IP
+- Sécurité réseau
+- Simulation avancée avec Cisco Packet Tracer
+
+Cette certification me permet de développer une compréhension concrète des infrastructures réseaux professionnelles et des standards utilisés en entreprise.
+
+---
+
+### 🎓 Licence Informatique & Mathématiques
+Université Sorbonne Paris Nord  
+
+Formation en :
+- Algorithmique et programmation (Python, C, Java)
+- Logique informatique
+- Analyse mathématique
+- Développement web
+- Bases de données
+- Administration systèmes et réseaux
+
+---
+
+### 🎓 Baccalauréat Scientifique — Mathématiques & NSI
 
 ---
 
 ## 🌍 Langues
-- 🇫🇷 Français : natif
-- 🇬🇧 Anglais : B1
-- 🇯🇵 Japonais : A2
+
+- 🇫🇷 Français : natif  
+- 🇬🇧 Anglais : B1  
+- 🇯🇵 Japonais : A2  
 
 ---
 
-## 🤝 Soft skills
-- Bon relationnel
-- Travail en équipe
-- Curiosité technique
-- Esprit logique
-- Autonomie
+## 🤝 Soft Skills
+
+- Esprit analytique  
+- Curiosité technique  
+- Autonomie  
+- Travail en équipe  
+- Bon relationnel  
 
 ---
 
 ## 📫 Me contacter
-- LinkedIn : **Yasmina Agharmine**
-- GitHub : *ce portfolio*
+
+🔗 LinkedIn : Yasmina Agharmine  
+💻 GitHub : Portfolio & LAB  
+📧 yasmina.agharmine9740@gmail.com  
+
+---
+
+⭐ Toujours en apprentissage. Toujours en progression.
