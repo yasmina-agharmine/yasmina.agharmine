@@ -1,23 +1,23 @@
 # 👩‍💻 Yasmina Agharmine
 
-🎯 Future Technicienne Réseaux & Cybersécurité  
-📍 Val-d’Oise (95) | Mobilité nationale  
-📧 yasmina.agharmine9740@gmail.com  
+Future Technicienne Réseaux & Cybersécurité  
+Val-d’Oise (95) | Mobilité nationale  
+yasmina.agharmine9740@gmail.com  
 
 ---
 
-## 🔐 À propos de moi
+## À propos de moi
 
 Passionnée par les systèmes et les infrastructures réseaux, je me spécialise dans l’administration Windows/Linux, la configuration TCP/IP et la cybersécurité.
 
 Mon objectif : comprendre en profondeur le fonctionnement des systèmes, sécuriser les environnements et intervenir efficacement en support et en exploitation réseau.
 
 Je recherche une **alternance en Technicien Réseaux & Cybersécurité**  
-📅 Mars 2026 → Septembre 2027
+--> Mars 2026 → Septembre 2027
 
 ---
 
-## 🧪 Mon LAB Réseaux & Cybersécurité
+##  Mon LAB Réseaux & Cybersécurité
 
 J’ai construit un environnement LAB personnel pour mettre en pratique mes compétences techniques dans des conditions proches du réel.
 
@@ -28,16 +28,16 @@ Ce LAB me permet de :
 - Tester des scénarios de sécurisation
 - Manipuler Cisco Packet Tracer
 
-👉 Voir le projet complet ici :  
+ Voir le projet complet ici :  
 🔗 **[Accéder au LAB](https://github.com/yasmina-agharmine/projethomelab)**
 
 *(Projet évolutif — régulièrement enrichi avec de nouveaux scénarios techniques.)*
 
 ---
 
-## 🧠 Compétences Techniques
+##  Compétences Techniques
 
-### 💻 Systèmes & Réseaux
+###  Systèmes & Réseaux
 - Administration Windows & Linux
 - Réseaux TCP/IP
 - Active Directory
@@ -45,17 +45,17 @@ Ce LAB me permet de :
 - Virtualisation
 - Bonnes pratiques de cybersécurité
 
-### 👨‍💻 Programmation
+###  Programmation
 - Java
 - Python
 - C
 - HTML / CSS
 - OCaml
 
-### 🗄️ Bases de données
+###  Bases de données
 - SQL
 
-### 🛠️ Outils
+###  Outils
 - Git / GitHub
 - GLPI
 - Cisco Packet Tracer
@@ -64,9 +64,9 @@ Ce LAB me permet de :
 
 ---
 
-## 🎓 Diplômes & Formations
+##  Diplômes & Formations
 
-### 🎓 Technicienne Supérieure Systèmes & Réseaux (TSSR) — En cours
+###  Technicienne Supérieure Systèmes & Réseaux (TSSR) — En cours
 Simplon — 2026 / 2027  
 
 - Administration systèmes Windows & Linux  
@@ -78,7 +78,7 @@ Simplon — 2026 / 2027
 
 ---
 
-### 🌐 Cisco Network Academy — En cours
+###  Cisco Network Academy — En cours
 
 Programme international de formation aux technologies réseaux et à la cybersécurité.
 
@@ -93,7 +93,7 @@ Cette certification me permet de développer une compréhension concrète des in
 
 ---
 
-### 🎓 Licence Informatique & Mathématiques
+###  Licence Informatique & Mathématiques
 Université Sorbonne Paris Nord  
 
 Formation en :
@@ -106,11 +106,11 @@ Formation en :
 
 ---
 
-### 🎓 Baccalauréat Scientifique — Mathématiques & NSI
+###  Baccalauréat Scientifique — Mathématiques & NSI
 
 ---
 
-## 🌍 Langues
+##  Langues
 
 - 🇫🇷 Français : natif  
 - 🇬🇧 Anglais : B1  
@@ -118,7 +118,7 @@ Formation en :
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 
 - Esprit analytique  
 - Curiosité technique  
@@ -128,11 +128,11 @@ Formation en :
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
-🔗 LinkedIn : Yasmina Agharmine  
-💻 GitHub : Portfolio & LAB  
-📧 yasmina.agharmine9740@gmail.com  
+--> LinkedIn : Yasmina Agharmine  
+--> GitHub : Portfolio & LAB  
+
 
 ---
 
