@@ -30,8 +30,10 @@ Ce LAB me permet de :
 
  Voir le projet complet ici :  
 🔗 **[Accéder au LAB](https://github.com/yasmina-agharmine/projethomelab)**
+
+
 Ainsi qu'un projet intermédiaire axé cybersécurité:
-🔗 **[Accéder au LAB](https://github.com/yasmina-agharmine/projet-intermediaire-cybers-curit-)**
+🔗 **[Accéder au projet cybersécurité](https://github.com/yasmina-agharmine/projet-intermediaire-cybers-curit-)**
 
 *(Projet évolutif — régulièrement enrichi avec de nouveaux scénarios techniques.)*
 
