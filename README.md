@@ -1,143 +1,159 @@
-# 👩‍💻 Yasmina Agharmine
+# Yasmina Agharmine
 
-Future Technicienne Réseaux & Cybersécurité  
+Future Administratrice d’Infrastructures Sécurisées  
 Val-d’Oise (95) | Mobilité nationale  
-yasmina.agharmine9740@gmail.com  
+[yasmina.agharmine9740@gmail.com](mailto:yasmina.agharmine9740@gmail.com)
 
 ---
 
 ## À propos de moi
 
-Passionnée par les systèmes et les infrastructures réseaux, je me spécialise dans l’administration Windows/Linux, la configuration TCP/IP et la cybersécurité.
+Passionnée par les systèmes, les réseaux et la cybersécurité, je développe mes compétences à travers ma licence, mes projets personnels, mon homelab et mes formations en administration d’infrastructures.
 
-Mon objectif : comprendre en profondeur le fonctionnement des systèmes, sécuriser les environnements et intervenir efficacement en support et en exploitation réseau.
+Je m’intéresse particulièrement à l’administration Windows/Linux, aux services d’infrastructure, à la segmentation réseau, à la sécurisation des environnements et à la résolution de problèmes techniques.
 
-Je recherche une **alternance en Technicien Réseaux & Cybersécurité**  
---> Mars 2026 → Septembre 2027
+Mon objectif est de concevoir, administrer et sécuriser des infrastructures systèmes et réseaux dans un cadre professionnel.
 
----
-
-##  Mon LAB Réseaux & Cybersécurité
-
-J’ai construit un environnement LAB personnel pour mettre en pratique mes compétences techniques dans des conditions proches du réel.
-
-Ce LAB me permet de :
-- Simuler des architectures réseaux
-- Configurer des services Windows Server et Linux
-- Mettre en place Active Directory
-- Tester des scénarios de sécurisation
-- Manipuler Cisco Packet Tracer
-
- Voir le projet complet ici :  
-🔗 **[Accéder au LAB](https://github.com/yasmina-agharmine/projethomelab)**
-
-
-Ainsi qu'un projet intermédiaire axé cybersécurité:
-🔗 **[Accéder au projet cybersécurité](https://github.com/yasmina-agharmine/projet-intermediaire-cybers-curit-)**
-
-*(Projet évolutif — régulièrement enrichi avec de nouveaux scénarios techniques.)*
+Je recherche une alternance en administration systèmes, réseaux et cybersécurité d’avril 2026 à novembre 2027.
 
 ---
 
-##  Compétences Techniques
+## Homelab systèmes, réseaux et cybersécurité
 
-###  Systèmes & Réseaux
-- Administration Windows & Linux
-- Réseaux TCP/IP
+J’ai conçu un homelab personnel pour mettre en pratique mes compétences techniques dans un environnement proche d’une infrastructure d’entreprise virtualisée.
+
+Ce lab me permet de :
+- déployer un environnement Windows Server avec Active Directory ;
+- configurer des services d’infrastructure comme DNS et DHCP ;
+- intégrer un poste client Windows à un domaine ;
+- gérer des utilisateurs, des groupes, des droits d’accès et des GPO ;
+- déployer un serveur Debian avec GLPI ;
+- mettre en place une liaison LDAP avec Active Directory ;
+- segmenter le réseau avec pfSense ;
+- configurer le routage inter-réseaux et les premières règles de filtrage ;
+- tester des scénarios orientés cybersécurité dans un environnement contrôlé ;
+- documenter mes manipulations et l’évolution de mon infrastructure.
+
+Projet homelab :  
+[Accéder au LAB](https://github.com/yasmina-agharmine/projethomelab)
+
+Je développe également un projet intermédiaire davantage orienté cybersécurité :  
+[Accéder au projet cybersécurité](https://github.com/yasmina-agharmine/projet-intermediaire-cybers-curit-)
+
+Projet évolutif, enrichi progressivement avec de nouveaux scénarios techniques.
+
+---
+
+## Compétences techniques
+
+### Systèmes
+- Windows
+- Linux
+- Windows Server
 - Active Directory
-- Support N1 / N2
-- Virtualisation
-- Bonnes pratiques de cybersécurité
+- Gestion des utilisateurs et des droits
+- GPO
+- SSH
 
-###  Programmation
-- Java
+### Réseaux et sécurité
+- TCP/IP
+- DNS
+- DHCP
+- pfSense
+- Routage inter-réseaux
+- Segmentation réseau
+- Configuration de règles firewall
+- Cisco Packet Tracer
+
+### Virtualisation et outils
+- VirtualBox
+- VMware
+- GLPI
+- Git / GitHub
+- Pack Office
+- Gestion de projet informatique
+
+### Développement et données
 - Python
 - C
+- Java
 - HTML / CSS
 - OCaml
-
-###  Bases de données
 - SQL
-
-###  Outils
-- Git / GitHub
-- GLPI
-- Cisco Packet Tracer
-- Machines virtuelles
-- Pack Office (Excel avancé)
+- Conception et développement web
 
 ---
 
-##  Diplômes & Formations
+## Formations
 
-###  Technicienne Supérieure Systèmes & Réseaux (TSSR) — En cours
-Simplon — 2026 / 2027  
+### Titre professionnel Administrateur d’Infrastructures Sécurisées (AIS) — En cours
+Simplon — Avril 2026 / Novembre 2027
 
-- Administration systèmes Windows & Linux  
-- Réseaux TCP/IP  
-- Gestion des utilisateurs et des droits  
-- Active Directory  
-- Support utilisateurs N1 / N2  
-- Sécurisation des infrastructures  
+- Administration et sécurisation des infrastructures systèmes et réseaux
+- Virtualisation et évolution d’infrastructure
+- Supervision, maintenance et résolution d’incidents
+- Participation à la gestion de la cybersécurité
+- Mise en production et sécurisation de services
 
----
+### Cisco Network Academy — En cours
 
-###  Cisco Network Academy — En cours
-
-Programme international de formation aux technologies réseaux et à la cybersécurité.
+Programme de formation orienté réseaux et cybersécurité, avec mise en pratique sur Cisco Packet Tracer.
 
 Formation axée sur :
-- Fondamentaux des réseaux (modèle OSI, TCP/IP)
-- Configuration de routeurs et switches
-- Routage, VLAN, adressage IP
-- Sécurité réseau
-- Simulation avancée avec Cisco Packet Tracer
+- fondamentaux des réseaux ;
+- modèle OSI et TCP/IP ;
+- adressage IP ;
+- routage et commutation ;
+- VLAN ;
+- sécurité réseau ;
+- simulation et manipulation d’architectures réseau.
 
-Cette certification me permet de développer une compréhension concrète des infrastructures réseaux professionnelles et des standards utilisés en entreprise.
+### OpenClassrooms — En cours
 
----
+Parcours d’autoformation autour de l’administration systèmes et réseaux, notamment sur :
+- Windows Server ;
+- Active Directory ;
+- services d’infrastructure ;
+- fondamentaux réseaux et administration système.
 
-###  Licence Informatique & Mathématiques
-Université Sorbonne Paris Nord  
+### Licence Informatique et Mathématiques — En cours
+Université Sorbonne Paris Nord
 
 Formation en :
-- Algorithmique et programmation (Python, C, Java)
-- Logique informatique
-- Analyse mathématique
-- Développement web
-- Bases de données
-- Administration systèmes et réseaux
+- algorithmique et programmation ;
+- logique informatique ;
+- analyse mathématique ;
+- développement web ;
+- bases de données ;
+- administration systèmes et réseaux.
+
+### Baccalauréat Scientifique — Mathématiques et NSI
 
 ---
 
-###  Baccalauréat Scientifique — Mathématiques & NSI
+## Langues
+
+- Français : natif
+- Anglais : B1
+- Japonais : A2
 
 ---
 
-##  Langues
+## Qualités
 
-- 🇫🇷 Français : natif  
-- 🇬🇧 Anglais : B1  
-- 🇯🇵 Japonais : A2  
-
----
-
-##  Soft Skills
-
-- Esprit analytique  
-- Curiosité technique  
-- Autonomie  
-- Travail en équipe  
-- Bon relationnel  
+- Esprit analytique
+- Curiosité technique
+- Autonomie
+- Travail en équipe
+- Bon relationnel
 
 ---
 
-##  Me contacter
+## Liens
 
---> LinkedIn : Yasmina Agharmine  
---> GitHub : Portfolio & LAB  
-
+LinkedIn : Yasmina Agharmine  
+GitHub : Portfolio et projets techniques
 
 ---
 
-⭐ Toujours en apprentissage. Toujours en progression.
+Toujours en apprentissage, toujours en progression.
